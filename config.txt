@@ -1,5 +1,4 @@
-# Fix: Error DNS error on Browser in Linux
-Ubuntu Linux Configure DNS Name resolution
+nux Configure DNS Name resolution
 
 Type the following command, enter:
 $ sudo vi /etc/resolv.conf
